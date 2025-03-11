@@ -19,7 +19,7 @@ This project involves the creation of interactive Tableau dashboards designed to
 - **Filters and Calculations**: Implemented dynamic filters, calculated fields, and sets for a customized user experience.
 
 ## How to Use
-1. Access dashboard via [link](https://public.tableau.com/app/profile/nima.shafikhani/viz/SalesCustomerAnalyticsDashboardView/CustomerDashboard): 
+1. Access dashboard via [link](https://public.tableau.com/app/profile/nima.shafikhani/viz/SalesCustomerAnalyticsDashboardView/CustomerDashboard)
 2. Explore the interactive dashboards to analyze sales and customer data.
 3. Use dynamic filters to view data by time periods, customer segments, or product categories.
 
