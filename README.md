@@ -1,6 +1,6 @@
 # Sales & Customer Analytics Dashboard (Tableau)
 
-![giphy](https://github.com/user-attachments/assets/a9629bd4-8be8-4103-b7c5-ebaef5f51aeb)
+![ezgif-375eb8c09f0ec3](https://github.com/user-attachments/assets/5a6c6a73-9621-4d08-9724-746d9baebb3c)
 
 ## Project Overview
 This project involves the creation of interactive Tableau dashboards designed to analyze sales performance and customer behavior. The dashboards allow stakeholders to track key performance indicators (KPIs), year-over-year trends, and customer insights, empowering data-driven decision-making.
